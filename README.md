@@ -17,7 +17,9 @@ On our application,Contractors would have a profile and customers will be able t
 List of 5 to 10 Main Features
 
 Cost and time Estimation for home construction
+
 New offers and/or projects
+
 Contractor’s Profile and their Booking
 Customer’s Profile and completion status
 Domain expert’s advice
