@@ -21,12 +21,19 @@ Cost and time Estimation for home construction
 New offers and/or projects
 
 Contractor’s Profile and their Booking
+
 Customer’s Profile and completion status
+
 Domain expert’s advice
+
 Ratings of Contractors
+
 Updating Profile
+
 Catalog showing available contractors and experts
+
 Discount to regular customers  
+
 Filter contractors by rating
 
 
